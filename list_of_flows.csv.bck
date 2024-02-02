@@ -1,0 +1,5 @@
+E_readhost,E_readuser,E_readpassword,E_readkey,E_readpassphrase,E_readremotepath,T_selectquery,L_writehost,L_writeuser,L_writepassword,L_writekey,L_writepassphrase,L_writeremotepath
+10.10.10.10,pippo,passwordpippo,,,/remote/read/path,,11.11.11.11,nifi,passwordnifi,,,/remote/write/path
+12.12.12.12,pluto,passwordpluto,,,/remote/read/path,,13.13.13.13,nifi,,/path/to/key,passphrase,/remote/write/path
+14.14.14.14,paperino,passwordpaperino,,,/remote/read/path,,15.15.15.15,nifi,,/path/to/key,,/remote/write/path
+16.16.16.16,clarabellla,passwordclarabella,,,/remote/read/path,,17.17.17.17,nifi,passwordnifi,,,/remote/write/path

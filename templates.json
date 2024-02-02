@@ -1,0 +1,85 @@
+{
+  "templates": [
+    {
+      "id": "777c3c99-37c4-469f-930b-072cfbc919a0",
+      "permissions": {
+        "canRead": true,
+        "canWrite": true
+      },
+      "template": {
+        "uri": "https://cic-lab.openstacklocal:8443/nifi-api/templates/777c3c99-37c4-469f-930b-072cfbc919a0",
+        "id": "777c3c99-37c4-469f-930b-072cfbc919a0",
+        "groupId": "e972f24d-018c-1000-bbd5-53a042adfd80",
+        "name": "ASDASDASD",
+        "description": "",
+        "timestamp": "01/17/2024 18:14:27 CET",
+        "encoding-version": "1.3"
+      }
+    },
+    {
+      "id": "2b80c228-6125-434d-9e30-1656ff667c02",
+      "permissions": {
+        "canRead": true,
+        "canWrite": true
+      },
+      "template": {
+        "uri": "https://cic-lab.openstacklocal:8443/nifi-api/templates/2b80c228-6125-434d-9e30-1656ff667c02",
+        "id": "2b80c228-6125-434d-9e30-1656ff667c02",
+        "groupId": "e972f24d-018c-1000-bbd5-53a042adfd80",
+        "name": "INVIO_FILE_CSV_DA_TNI_E_CMS_A_FI_REPLY",
+        "description": "",
+        "timestamp": "01/12/2024 17:29:51 CET",
+        "encoding-version": "1.3"
+      }
+    },
+    {
+      "id": "2efd74f7-1eed-4dee-89f1-cf8925cac456",
+      "permissions": {
+        "canRead": true,
+        "canWrite": true
+      },
+      "template": {
+        "uri": "https://cic-lab.openstacklocal:8443/nifi-api/templates/2efd74f7-1eed-4dee-89f1-cf8925cac456",
+        "id": "2efd74f7-1eed-4dee-89f1-cf8925cac456",
+        "groupId": "e972f24d-018c-1000-bbd5-53a042adfd80",
+        "name": "CVS_to_CSV",
+        "description": "",
+        "timestamp": "01/17/2024 17:29:51 CET",
+        "encoding-version": "1.3"
+      }
+    },
+    {
+      "id": "19dfbab3-a89f-4bc8-877a-abae13069518",
+      "permissions": {
+        "canRead": true,
+        "canWrite": true
+      },
+      "template": {
+        "uri": "https://cic-lab.openstacklocal:8443/nifi-api/templates/19dfbab3-a89f-4bc8-877a-abae13069518",
+        "id": "19dfbab3-a89f-4bc8-877a-abae13069518",
+        "groupId": "e972f24d-018c-1000-bbd5-53a042adfd80",
+        "name": "SFTP2SFTP",
+        "description": "",
+        "timestamp": "01/24/2024 10:04:49 CET",
+        "encoding-version": "1.3"
+      }
+    },
+    {
+      "id": "846155c7-47d6-4aa7-82d9-ce6e97f7f4c0",
+      "permissions": {
+        "canRead": true,
+        "canWrite": true
+      },
+      "template": {
+        "uri": "https://cic-lab.openstacklocal:8443/nifi-api/templates/846155c7-47d6-4aa7-82d9-ce6e97f7f4c0",
+        "id": "846155c7-47d6-4aa7-82d9-ce6e97f7f4c0",
+        "groupId": "e972f24d-018c-1000-bbd5-53a042adfd80",
+        "name": "ORC2SFTP",
+        "description": "",
+        "timestamp": "01/24/2024 10:04:37 CET",
+        "encoding-version": "1.3"
+      }
+    }
+  ],
+  "generated": "10:34:32 CET"
+}
